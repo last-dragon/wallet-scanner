@@ -1,0 +1,178 @@
+[
+    {
+        "address": "0xc86a036db66c32ef1e4744250435cbe2f22103a3",
+        "symbol": "OBOL",
+        "name": "Obol Labs",
+        "decimals": "18",
+        "pool_address": "0xbf8ae178745e7e51cfcc9b1415457908bdf08611",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.0001253554152410352,
+        "token_mcap": 1253554.152410352
+    },
+    {
+        "address": "0x890cdf3c8ec0f6ef940890df6ae8ea044400944a",
+        "symbol": "MASA",
+        "name": "Masa Token",
+        "decimals": "18",
+        "pool_address": "0x07d516e9f55e9e9140488f8008e525d1d8d94c2d",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.00004675864224632118,
+        "token_mcap": 981931.4871727447
+    },
+    {
+        "address": "0xdcb322683d7e1f6f4b779125fbf2991577447c53",
+        "symbol": "DOGEPAY",
+        "name": "Doge Payment",
+        "decimals": "9",
+        "pool_address": "0x5ef44c1120a40647f285ee8d5d8f4690bde61873",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 5.40860191773444e-12,
+        "token_mcap": 540860.1917734441
+    },
+    {
+        "address": "0xdbc75f3c6fa07dcc1e8abb652c9cc7d077ca46bd",
+        "symbol": "BEFI",
+        "name": "BeFi Labs",
+        "decimals": "18",
+        "pool_address": "0xdaf0c58510f48ed354fbe03d2805a5760f57fe9b",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.0748312637103892,
+        "token_mcap": 15714565.379181731
+    },
+    {
+        "address": "0x6426ff5987100f6270d402409fbf4a093e01a647",
+        "symbol": "XPAY",
+        "name": "𝕏PAYMENT",
+        "decimals": "9",
+        "pool_address": "0xf05d7de66c519b06fcf4f8322a2b8e2c99029b26",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 1.5061599257655464e-9,
+        "token_mcap": 632587.1688215295
+    },
+    {
+        "address": "0x21bacb6197c95194282444656790b1eed00d9090",
+        "symbol": "GNB",
+        "name": "GooseInBoots",
+        "decimals": "18",
+        "pool_address": "0xf46f4e33cfa712cf89feb69615cc95920c0af52c",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 4.832231344992675,
+        "token_mcap": 585724.425789252
+    },
+    {
+        "address": "0xd4318fa09c45cfb6355ded6085b0d698b64ec1cd",
+        "symbol": "FEDAI",
+        "name": "Federal AI",
+        "decimals": "8",
+        "pool_address": "0x374a83b9c0ed2e15ad61713d617f26ae2b5e0fdd",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.006144164232314871,
+        "token_mcap": 614416.423231487
+    },
+    {
+        "address": "0xb15a5aab2a65745314fcd0d7f5080bfa65bd7c03",
+        "symbol": "TUPELO",
+        "name": "tupelothedog",
+        "decimals": "9",
+        "pool_address": "0x7ce8191f6c4b93af1f343c4ed68085139a62f9b4",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.0007284721365067681,
+        "token_mcap": 728472.1365067681
+    },
+    {
+        "address": "0x27f3a2f4ffdecc274264683fbfe39b01dba6bb84",
+        "symbol": "PUDG",
+        "name": "Pudg token",
+        "decimals": "18",
+        "pool_address": "0x6f72710c7ceeb7fae101080b099a4c721f655629",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.001038262626910812,
+        "token_mcap": 922900.1118867104
+    },
+    {
+        "address": "0xc3f8143212871014b472ea83285af7f25928dee4",
+        "symbol": "SOHOT",
+        "name": "SOHOTRN",
+        "decimals": "9",
+        "pool_address": "0xc777b59e2266b4a5390e6cbd8f7b357476bd20d5",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.000877903459420279,
+        "token_mcap": 877903.459420279
+    },
+    {
+        "address": "0x943af2ece93118b973c95c2f698ee9d15002e604",
+        "symbol": "DUEL",
+        "name": "DUEL Token",
+        "decimals": "18",
+        "pool_address": "0x75734418fd346f424a3e1d7cc11e012f322cdd03",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.009083225816961917,
+        "token_mcap": 70203567.30820382
+    },
+    {
+        "address": "0x5d56b6581d2e7e7574adce2dc593f499a53d7505",
+        "symbol": "MACHINA",
+        "name": "Machina",
+        "decimals": "18",
+        "pool_address": "0xbfc7e1b103d9fd74ff37423a2ac83c064dc19b12",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.00009733273594010256,
+        "token_mcap": 973327.3594010256
+    },
+    {
+        "address": "0x06c5d7ecdd72146b2a0c6251e6b9b89b34ae05ce",
+        "symbol": "MANTA",
+        "name": "Manta Network",
+        "decimals": "18",
+        "pool_address": "0xf7b410007e37cc34794a4de9234fba430ec4cec2",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 14.087119247363404,
+        "token_mcap": 1408711.9247363403
+    },
+    {
+        "address": "0xee9e3123dbb3ac5e75c65a1fc4617b2acc082d85",
+        "symbol": "GECKO",
+        "name": "Gecko",
+        "decimals": "18",
+        "pool_address": "0x9b073c0c36cd31fe1544059371d84b598cd86d9c",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.0021793518046322995,
+        "token_mcap": 1089675.9023161498
+    },
+    {
+        "address": "0x64d0f55cd8c7133a9d7102b13987235f486f2224",
+        "symbol": "BORG",
+        "name": "SwissBorg Token",
+        "decimals": "18",
+        "pool_address": "0x03ce673e2980aaa10f4ac32e0ef8bae413de97e8",
+        "version": 2,
+        "istoken0": true,
+        "token_price": 0.16748608587335848,
+        "token_mcap": 164865742.35087442
+    },
+    {
+        "address": "0xe453c3409f8ad2b1fe1ed08e189634d359705a5b",
+        "symbol": "DGI",
+        "name": "DGI Game",
+        "decimals": "18",
+        "pool_address": "0xe1525583c72de1a3dada24f761007ba8a560e220",
+        "version": 2,
+        "istoken0": false,
+        "token_price": 0.0032115883194518305,
+        "token_mcap": 3211588.3194518303
+    }
+]

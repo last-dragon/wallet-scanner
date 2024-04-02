@@ -1,0 +1,154 @@
+[
+    {
+        "address": "0x94c7b8dDf1c1a3d832855A8F8e7889C59f70828F",
+        "top_rate": 2,
+        "token_name": "DOGEPAY",
+        "token_address": "0xdcb322683d7e1f6f4b779125fbf2991577447c53",
+        "profit_rate": 0,
+        "reason": " Win rate is 73.91%"
+    },
+    {
+        "address": "0xCB17636e986D73BA4b1f94eA1f626DCB5512BFc2",
+        "top_rate": 7,
+        "token_name": "DOGEPAY",
+        "token_address": "0xdcb322683d7e1f6f4b779125fbf2991577447c53",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x9F364006176167a7706a8C7c8514c64e713552C5",
+        "top_rate": 27,
+        "token_name": "DOGEPAY",
+        "token_address": "0xdcb322683d7e1f6f4b779125fbf2991577447c53",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is $150926.68"
+    },
+    {
+        "address": "0x1d3e96F12127fAcdE70884E3d10dfC7691b44E5B",
+        "top_rate": 4,
+        "token_name": "GNB",
+        "token_address": "0x21bacb6197c95194282444656790b1eed00d9090",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is $169842.15"
+    },
+    {
+        "address": "0x90cB05d994f21bAfdC277B743cc13b9484D84739",
+        "top_rate": 8,
+        "token_name": "FEDAI",
+        "token_address": "0xd4318fa09c45cfb6355ded6085b0d698b64ec1cd",
+        "profit_rate": 0,
+        "reason": " Win rate is 75.00%"
+    },
+    {
+        "address": "0xaeA530ea0a3326087E32dbC152548aCAc612bACf",
+        "top_rate": 21,
+        "token_name": "PUDG",
+        "token_address": "0x27f3a2f4ffdecc274264683fbfe39b01dba6bb84",
+        "profit_rate": 0,
+        "reason": " Win rate is 75.00%"
+    },
+    {
+        "address": "0x15e37293BCd44422B60C227568cD58403DeC3E5E",
+        "top_rate": 45,
+        "token_name": "PUDG",
+        "token_address": "0x27f3a2f4ffdecc274264683fbfe39b01dba6bb84",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is $86881.39"
+    },
+    {
+        "address": "0x863185bFF08e4Bf98e3aF6250F054a7e4695F00C",
+        "top_rate": 16,
+        "token_name": "DUEL",
+        "token_address": "0x943af2ece93118b973c95c2f698ee9d15002e604",
+        "profit_rate": 0,
+        "reason": " Win rate is 87.50%"
+    },
+    {
+        "address": "0xE5Fb0680B4ef977f99165C33AE885907d7A012Eb",
+        "top_rate": 46,
+        "token_name": "DUEL",
+        "token_address": "0x943af2ece93118b973c95c2f698ee9d15002e604",
+        "profit_rate": 0,
+        "reason": " Win rate is 72.73%"
+    },
+    {
+        "address": "0x940CFA41CfF91493dD5523eC8Dc8577b98021A62",
+        "top_rate": 12,
+        "token_name": "MACHINA",
+        "token_address": "0x5d56b6581d2e7e7574adce2dc593f499a53d7505",
+        "profit_rate": 0,
+        "reason": " Win rate is 75.00%"
+    },
+    {
+        "address": "0xa34A2DC2D646346af1C88aF8C6712CA4Ecd23225",
+        "top_rate": 25,
+        "token_name": "MACHINA",
+        "token_address": "0x5d56b6581d2e7e7574adce2dc593f499a53d7505",
+        "profit_rate": 0,
+        "reason": " Win rate is 75.00%"
+    },
+    {
+        "address": "0x439001e00378ee142489f56C04895FAc01dc0BB5",
+        "top_rate": 32,
+        "token_name": "MACHINA",
+        "token_address": "0x5d56b6581d2e7e7574adce2dc593f499a53d7505",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is $127954.38"
+    },
+    {
+        "address": "0xf4EE01A828C8F403336Bd6096c6732C8A9ecA56F",
+        "top_rate": 39,
+        "token_name": "MACHINA",
+        "token_address": "0x5d56b6581d2e7e7574adce2dc593f499a53d7505",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is $133950.96"
+    },
+    {
+        "address": "0x1217678B3D125831dd03A531542080f2C0833f6D",
+        "top_rate": 45,
+        "token_name": "MACHINA",
+        "token_address": "0x5d56b6581d2e7e7574adce2dc593f499a53d7505",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is $105450.27"
+    },
+    {
+        "address": "0x2FA53FC8FF58989A7E064530EbAF4556AC2D2429",
+        "top_rate": 49,
+        "token_name": "MACHINA",
+        "token_address": "0x5d56b6581d2e7e7574adce2dc593f499a53d7505",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xb02Cf63b8E127650f5d3287Fce30Fb7B023738fA",
+        "top_rate": 6,
+        "token_name": "BORG",
+        "token_address": "0x64d0f55cd8c7133a9d7102b13987235f486f2224",
+        "profit_rate": 0,
+        "reason": " Win rate is 75.00%"
+    },
+    {
+        "address": "0x6390ED3A6EE4066A87268ea725B263A32e545E49",
+        "top_rate": 18,
+        "token_name": "BORG",
+        "token_address": "0x64d0f55cd8c7133a9d7102b13987235f486f2224",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x0CDE9394256015B45FCfcB7973457DdE4AD4Ccdb",
+        "top_rate": 24,
+        "token_name": "BORG",
+        "token_address": "0x64d0f55cd8c7133a9d7102b13987235f486f2224",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is $308341.63"
+    },
+    {
+        "address": "0x7603df806CD4d5dC67ffA74682e33Ec6f7896f88",
+        "top_rate": 48,
+        "token_name": "DGI",
+        "token_address": "0xe453c3409f8ad2b1fe1ed08e189634d359705a5b",
+        "profit_rate": 0,
+        "reason": " Win rate is 85.71%"
+    }
+]
